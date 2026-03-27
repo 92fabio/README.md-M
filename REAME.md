@@ -48,3 +48,27 @@ if valor1 == valor2:
 ![](https://img.freepik.com/fotos-premium/america-planeta-atlantico-terra-elementos-desta-imagem-fornecida-pela-nasa-renderizacao-3d_924688-5814.jpg?semt=ais_hybrid&w=740&q=80)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,github,visualstudio,vscode,mysql,linkedin)](https://skillicons.dev)
+
+Você pode criar tabelas com pipes | e hífens -. Hifens são usados para criar o cabeçalho de cada coluna, enquanto as barras verticais separam cada coluna. Você deve incluir uma linha em branco antes da tabela para ela ser renderizada corretamente.
+
+| atualizando   | fabio furtado |
+| ------------- | ------------- |
+| Conecte Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+Os tubos em cada extremidade da tabela são opcionais.
+
+As células podem ter largura variada e não precisam estar alinhadas perfeitamente com as colunas. Deve ter no mínimo três hifens em cada coluna da linha do cabeçalho.
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+
+| fabio   |  bala  | 
+| ------- | ------ |  
+
+:stuck_out_tongue: 
+
+

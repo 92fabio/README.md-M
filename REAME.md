@@ -68,6 +68,7 @@ As células podem ter largura variada e não precisam estar alinhadas perfeitame
 
 | fabio   |  bala  | 
 | ------- | ------ | 
+| FF      | OLiveira | 
 
  :pinched_fingers: :accessibility:
 
